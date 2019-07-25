@@ -1,0 +1,17 @@
+C:\Users\vdima\OneDrive\Study\2 курс\Программирование\Курсовая\Kurse_Work\kursovik_student_base\Kursovik\bin\Debug\Kursovik.exe.config
+C:\Users\vdima\OneDrive\Study\2 курс\Программирование\Курсовая\Kurse_Work\kursovik_student_base\Kursovik\obj\Debug\Kursovik.exe
+C:\Users\vdima\OneDrive\Study\2 курс\Программирование\Курсовая\Kurse_Work\kursovik_student_base\Kursovik\obj\Debug\Kursovik.pdb
+C:\Users\vdima\OneDrive\Study\2 курс\Программирование\Курсовая\Kurse_Work\coursework-decanat\Kursovik\bin\Debug\Kursovik.exe.config
+C:\Users\vdima\OneDrive\Study\2 курс\Программирование\Курсовая\Kurse_Work\coursework-decanat\Kursovik\obj\Debug\Kursovik.exe
+C:\Users\vdima\OneDrive\Study\2 курс\Программирование\Курсовая\Kurse_Work\coursework-decanat\Kursovik\obj\Debug\Kursovik.pdb
+C:\Users\vdima\OneDrive\Study\2 курс\Программирование\Курсовая\Kurse_Work\coursework-decanat\Kursovik\bin\Debug\Kursovik.exe
+C:\Users\vdima\OneDrive\Study\2 курс\Программирование\Курсовая\Kurse_Work\coursework-decanat\Kursovik\bin\Debug\Kursovik.pdb
+C:\Users\vdima\OneDrive\Study\2 курс\Программирование\Курсовая\Kurse_Work\coursework-decanat\Kursovik\bin\Debug\Students_Library.pdb
+C:\Users\vdima\OneDrive\Study\2 курс\Программирование\Курсовая\Kurse_Work\coursework-decanat\Kursovik\obj\Debug\decanat.csprojResolveAssemblyReference.cache
+C:\Users\vdima\OneDrive\Study\2 курс\Программирование\Курсовая\Kurse_Work\coursework-decanat\Kursovik\obj\Debug\Kursovik.AddForm.resources
+C:\Users\vdima\OneDrive\Study\2 курс\Программирование\Курсовая\Kurse_Work\coursework-decanat\Kursovik\obj\Debug\Kursovik.DelDolgForm.resources
+C:\Users\vdima\OneDrive\Study\2 курс\Программирование\Курсовая\Kurse_Work\coursework-decanat\Kursovik\obj\Debug\Kursovik.DelForm.resources
+C:\Users\vdima\OneDrive\Study\2 курс\Программирование\Курсовая\Kurse_Work\coursework-decanat\Kursovik\obj\Debug\Kursovik.EditForm.resources
+C:\Users\vdima\OneDrive\Study\2 курс\Программирование\Курсовая\Kurse_Work\coursework-decanat\Kursovik\obj\Debug\Kursovik.Form1.resources
+C:\Users\vdima\OneDrive\Study\2 курс\Программирование\Курсовая\Kurse_Work\coursework-decanat\Kursovik\obj\Debug\Kursovik.Properties.Resources.resources
+C:\Users\vdima\OneDrive\Study\2 курс\Программирование\Курсовая\Kurse_Work\coursework-decanat\Kursovik\obj\Debug\decanat.csproj.GenerateResource.Cache

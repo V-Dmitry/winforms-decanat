@@ -1,0 +1,13 @@
+C:\Users\1\Documents\Visual Studio 2015\Projects\Students_Library\Students_Library\bin\Debug\Students_Library.dll
+C:\Users\1\Documents\Visual Studio 2015\Projects\Students_Library\Students_Library\bin\Debug\Students_Library.pdb
+C:\Users\1\Documents\Visual Studio 2015\Projects\Students_Library\Students_Library\obj\Debug\Students_Library.dll
+C:\Users\1\Documents\Visual Studio 2015\Projects\Students_Library\Students_Library\obj\Debug\Students_Library.pdb
+C:\Users\1\OneDrive\Учеба\2 курс\Программирование\Курсовая\Курсач\Students_Library\Students_Library\bin\Debug\Students_Library.dll
+C:\Users\1\OneDrive\Учеба\2 курс\Программирование\Курсовая\Курсач\Students_Library\Students_Library\bin\Debug\Students_Library.pdb
+C:\Users\1\OneDrive\Учеба\2 курс\Программирование\Курсовая\Курсач\Students_Library\Students_Library\obj\Debug\Students_Library.dll
+C:\Users\1\OneDrive\Учеба\2 курс\Программирование\Курсовая\Курсач\Students_Library\Students_Library\obj\Debug\Students_Library.pdb
+C:\Users\1\OneDrive\Учеба\2 курс\Программирование\Курсовая\Kurse_Work\Students_Library\Students_Library\bin\Debug\Students_Library.dll
+C:\Users\1\OneDrive\Учеба\2 курс\Программирование\Курсовая\Kurse_Work\Students_Library\Students_Library\bin\Debug\Students_Library.pdb
+C:\Users\1\OneDrive\Учеба\2 курс\Программирование\Курсовая\Kurse_Work\Students_Library\Students_Library\obj\Debug\Students_Library.csprojResolveAssemblyReference.cache
+C:\Users\1\OneDrive\Учеба\2 курс\Программирование\Курсовая\Kurse_Work\Students_Library\Students_Library\obj\Debug\Students_Library.dll
+C:\Users\1\OneDrive\Учеба\2 курс\Программирование\Курсовая\Kurse_Work\Students_Library\Students_Library\obj\Debug\Students_Library.pdb

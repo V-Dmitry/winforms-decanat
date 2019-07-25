@@ -1,0 +1,78 @@
+C:\Users\1\Documents\Visual Studio 2015\Projects\kursovik_student_base\Kursovik\bin\Debug\Kursovik.exe.config
+C:\Users\1\Documents\Visual Studio 2015\Projects\kursovik_student_base\Kursovik\bin\Debug\Kursovik.exe
+C:\Users\1\Documents\Visual Studio 2015\Projects\kursovik_student_base\Kursovik\bin\Debug\Kursovik.pdb
+C:\Users\1\Documents\Visual Studio 2015\Projects\kursovik_student_base\Kursovik\obj\Debug\Kursovik.csprojResolveAssemblyReference.cache
+C:\Users\1\Documents\Visual Studio 2015\Projects\kursovik_student_base\Kursovik\obj\Debug\Kursovik.Form1.resources
+C:\Users\1\Documents\Visual Studio 2015\Projects\kursovik_student_base\Kursovik\obj\Debug\Kursovik.Properties.Resources.resources
+C:\Users\1\Documents\Visual Studio 2015\Projects\kursovik_student_base\Kursovik\obj\Debug\Kursovik.csproj.GenerateResource.Cache
+C:\Users\1\Documents\Visual Studio 2015\Projects\kursovik_student_base\Kursovik\obj\Debug\Kursovik.exe
+C:\Users\1\Documents\Visual Studio 2015\Projects\kursovik_student_base\Kursovik\obj\Debug\Kursovik.pdb
+C:\Users\1\Documents\Visual Studio 2015\Projects\kursovik_student_base\Kursovik\bin\Debug\Students_Library.pdb
+C:\Users\1\Documents\Visual Studio 2015\Projects\kursovik_student_base\Kursovik\obj\Debug\Kursovik.AddForm.resources
+C:\Users\1\Documents\Visual Studio 2015\Projects\kursovik_student_base\Kursovik\obj\Debug\Kursovik.EditForm.resources
+C:\Users\1\Documents\Visual Studio 2015\Projects\kursovik_student_base\Kursovik\obj\Debug\Kursovik.DelDolgForm.resources
+C:\Users\1\Documents\Visual Studio 2015\Projects\kursovik_student_base\Kursovik\bin\Debug\Students_Library.dll
+C:\Users\1\Documents\Visual Studio 2015\Projects\kursovik_student_base\Kursovik\obj\Debug\Kursovik.DelForm.resources
+C:\Users\1\Documents\Visual Studio 2015\Projects\kursovik_student_base(другое)\Kursovik\bin\Debug\Kursovik.exe.config
+C:\Users\1\Documents\Visual Studio 2015\Projects\kursovik_student_base(другое)\Kursovik\obj\Debug\Kursovik.exe
+C:\Users\1\Documents\Visual Studio 2015\Projects\kursovik_student_base(другое)\Kursovik\obj\Debug\Kursovik.pdb
+C:\Users\1\Documents\Visual Studio 2015\Projects\kursovik_student_base(другое)\Kursovik\bin\Debug\Kursovik.exe
+C:\Users\1\Documents\Visual Studio 2015\Projects\kursovik_student_base(другое)\Kursovik\bin\Debug\Kursovik.pdb
+C:\Users\1\Documents\Visual Studio 2015\Projects\kursovik_student_base(другое)\Kursovik\bin\Debug\Students_Library.dll
+C:\Users\1\Documents\Visual Studio 2015\Projects\kursovik_student_base(другое)\Kursovik\bin\Debug\Students_Library.pdb
+C:\Users\1\Documents\Visual Studio 2015\Projects\kursovik_student_base(другое)\Kursovik\obj\Debug\Kursovik.csprojResolveAssemblyReference.cache
+C:\Users\1\Documents\Visual Studio 2015\Projects\kursovik_student_base(другое)\Kursovik\obj\Debug\Kursovik.AddForm.resources
+C:\Users\1\Documents\Visual Studio 2015\Projects\kursovik_student_base(другое)\Kursovik\obj\Debug\Kursovik.DelDolgForm.resources
+C:\Users\1\Documents\Visual Studio 2015\Projects\kursovik_student_base(другое)\Kursovik\obj\Debug\Kursovik.DelForm.resources
+C:\Users\1\Documents\Visual Studio 2015\Projects\kursovik_student_base(другое)\Kursovik\obj\Debug\Kursovik.EditForm.resources
+C:\Users\1\Documents\Visual Studio 2015\Projects\kursovik_student_base(другое)\Kursovik\obj\Debug\Kursovik.Form1.resources
+C:\Users\1\Documents\Visual Studio 2015\Projects\kursovik_student_base(другое)\Kursovik\obj\Debug\Kursovik.Properties.Resources.resources
+C:\Users\1\Documents\Visual Studio 2015\Projects\kursovik_student_base(другое)\Kursovik\obj\Debug\Kursovik.csproj.GenerateResource.Cache
+C:\Users\1\OneDrive\Учеба\2 курс\Программирование\Курсовая\Курсач\kursovik_student_base(new)\Kursovik\bin\Debug\Kursovik.exe.config
+C:\Users\1\OneDrive\Учеба\2 курс\Программирование\Курсовая\Курсач\kursovik_student_base(new)\Kursovik\obj\Debug\Kursovik.exe
+C:\Users\1\OneDrive\Учеба\2 курс\Программирование\Курсовая\Курсач\kursovik_student_base(new)\Kursovik\obj\Debug\Kursovik.pdb
+C:\Users\1\OneDrive\Учеба\2 курс\Программирование\Курсовая\Курсач\kursovik_student_base(new)\Kursovik\bin\Debug\Kursovik.exe
+C:\Users\1\OneDrive\Учеба\2 курс\Программирование\Курсовая\Курсач\kursovik_student_base(new)\Kursovik\bin\Debug\Kursovik.pdb
+C:\Users\1\OneDrive\Учеба\2 курс\Программирование\Курсовая\Курсач\kursovik_student_base(new)\Kursovik\bin\Debug\Students_Library.dll
+C:\Users\1\OneDrive\Учеба\2 курс\Программирование\Курсовая\Курсач\kursovik_student_base(new)\Kursovik\bin\Debug\Students_Library.pdb
+C:\Users\1\OneDrive\Учеба\2 курс\Программирование\Курсовая\Курсач\kursovik_student_base(new)\Kursovik\obj\Debug\Kursovik.csprojResolveAssemblyReference.cache
+C:\Users\1\OneDrive\Учеба\2 курс\Программирование\Курсовая\Курсач\kursovik_student_base(new)\Kursovik\obj\Debug\Kursovik.AddForm.resources
+C:\Users\1\OneDrive\Учеба\2 курс\Программирование\Курсовая\Курсач\kursovik_student_base(new)\Kursovik\obj\Debug\Kursovik.DelDolgForm.resources
+C:\Users\1\OneDrive\Учеба\2 курс\Программирование\Курсовая\Курсач\kursovik_student_base(new)\Kursovik\obj\Debug\Kursovik.DelForm.resources
+C:\Users\1\OneDrive\Учеба\2 курс\Программирование\Курсовая\Курсач\kursovik_student_base(new)\Kursovik\obj\Debug\Kursovik.EditForm.resources
+C:\Users\1\OneDrive\Учеба\2 курс\Программирование\Курсовая\Курсач\kursovik_student_base(new)\Kursovik\obj\Debug\Kursovik.Form1.resources
+C:\Users\1\OneDrive\Учеба\2 курс\Программирование\Курсовая\Курсач\kursovik_student_base(new)\Kursovik\obj\Debug\Kursovik.Properties.Resources.resources
+C:\Users\1\OneDrive\Учеба\2 курс\Программирование\Курсовая\Курсач\kursovik_student_base(new)\Kursovik\obj\Debug\Kursovik.csproj.GenerateResource.Cache
+C:\Users\1\OneDrive\Учеба\2 курс\Программирование\Курсовая\Kurse_Work\kursovik_student_base(new)\Kursovik\bin\Debug\Kursovik.exe.config
+C:\Users\1\OneDrive\Учеба\2 курс\Программирование\Курсовая\Kurse_Work\kursovik_student_base(new)\Kursovik\obj\Debug\Kursovik.exe
+C:\Users\1\OneDrive\Учеба\2 курс\Программирование\Курсовая\Kurse_Work\kursovik_student_base(new)\Kursovik\obj\Debug\Kursovik.pdb
+C:\Users\1\OneDrive\Учеба\2 курс\Программирование\Курсовая\Kurse_Work\kursovik_student_base(new)\Kursovik\bin\Debug\Kursovik.exe
+C:\Users\1\OneDrive\Учеба\2 курс\Программирование\Курсовая\Kurse_Work\kursovik_student_base(new)\Kursovik\bin\Debug\Kursovik.pdb
+C:\Users\1\OneDrive\Учеба\2 курс\Программирование\Курсовая\Kurse_Work\kursovik_student_base(new)\Kursovik\bin\Debug\Students_Library.dll
+C:\Users\1\OneDrive\Учеба\2 курс\Программирование\Курсовая\Kurse_Work\kursovik_student_base(new)\Kursovik\bin\Debug\Students_Library.pdb
+C:\Users\1\OneDrive\Учеба\2 курс\Программирование\Курсовая\Kurse_Work\kursovik_student_base(new)\Kursovik\obj\Debug\Kursovik.csprojResolveAssemblyReference.cache
+C:\Users\1\OneDrive\Учеба\2 курс\Программирование\Курсовая\Kurse_Work\kursovik_student_base(new)\Kursovik\obj\Debug\Kursovik.AddForm.resources
+C:\Users\1\OneDrive\Учеба\2 курс\Программирование\Курсовая\Kurse_Work\kursovik_student_base(new)\Kursovik\obj\Debug\Kursovik.DelDolgForm.resources
+C:\Users\1\OneDrive\Учеба\2 курс\Программирование\Курсовая\Kurse_Work\kursovik_student_base(new)\Kursovik\obj\Debug\Kursovik.DelForm.resources
+C:\Users\1\OneDrive\Учеба\2 курс\Программирование\Курсовая\Kurse_Work\kursovik_student_base(new)\Kursovik\obj\Debug\Kursovik.EditForm.resources
+C:\Users\1\OneDrive\Учеба\2 курс\Программирование\Курсовая\Kurse_Work\kursovik_student_base(new)\Kursovik\obj\Debug\Kursovik.Form1.resources
+C:\Users\1\OneDrive\Учеба\2 курс\Программирование\Курсовая\Kurse_Work\kursovik_student_base(new)\Kursovik\obj\Debug\Kursovik.Properties.Resources.resources
+C:\Users\1\OneDrive\Учеба\2 курс\Программирование\Курсовая\Kurse_Work\kursovik_student_base(new)\Kursovik\obj\Debug\Kursovik.csproj.GenerateResource.Cache
+C:\Users\1\OneDrive\Учеба\2 курс\Программирование\Курсовая\Kurse_Work\kursovik_student_base\Kursovik\bin\Debug\Kursovik.exe.config
+C:\Users\1\OneDrive\Учеба\2 курс\Программирование\Курсовая\Kurse_Work\kursovik_student_base\Kursovik\obj\Debug\Kursovik.exe
+C:\Users\1\OneDrive\Учеба\2 курс\Программирование\Курсовая\Kurse_Work\kursovik_student_base\Kursovik\obj\Debug\Kursovik.pdb
+C:\Users\1\OneDrive\Учеба\2 курс\Программирование\Курсовая\Kurse_Work\kursovik_student_base\Kursovik\bin\Debug\Kursovik.exe
+C:\Users\1\OneDrive\Учеба\2 курс\Программирование\Курсовая\Kurse_Work\kursovik_student_base\Kursovik\bin\Debug\Kursovik.pdb
+C:\Users\1\OneDrive\Учеба\2 курс\Программирование\Курсовая\Kurse_Work\kursovik_student_base\Kursovik\bin\Debug\Students_Library.dll
+C:\Users\1\OneDrive\Учеба\2 курс\Программирование\Курсовая\Kurse_Work\kursovik_student_base\Kursovik\bin\Debug\Students_Library.pdb
+C:\Users\1\OneDrive\Учеба\2 курс\Программирование\Курсовая\Kurse_Work\kursovik_student_base\Kursovik\obj\Debug\Kursovik.csprojResolveAssemblyReference.cache
+C:\Users\1\OneDrive\Учеба\2 курс\Программирование\Курсовая\Kurse_Work\kursovik_student_base\Kursovik\obj\Debug\Kursovik.AddForm.resources
+C:\Users\1\OneDrive\Учеба\2 курс\Программирование\Курсовая\Kurse_Work\kursovik_student_base\Kursovik\obj\Debug\Kursovik.DelDolgForm.resources
+C:\Users\1\OneDrive\Учеба\2 курс\Программирование\Курсовая\Kurse_Work\kursovik_student_base\Kursovik\obj\Debug\Kursovik.DelForm.resources
+C:\Users\1\OneDrive\Учеба\2 курс\Программирование\Курсовая\Kurse_Work\kursovik_student_base\Kursovik\obj\Debug\Kursovik.EditForm.resources
+C:\Users\1\OneDrive\Учеба\2 курс\Программирование\Курсовая\Kurse_Work\kursovik_student_base\Kursovik\obj\Debug\Kursovik.Form1.resources
+C:\Users\1\OneDrive\Учеба\2 курс\Программирование\Курсовая\Kurse_Work\kursovik_student_base\Kursovik\obj\Debug\Kursovik.Properties.Resources.resources
+C:\Users\1\OneDrive\Учеба\2 курс\Программирование\Курсовая\Kurse_Work\kursovik_student_base\Kursovik\obj\Debug\Kursovik.csproj.GenerateResource.Cache
+C:\Users\vdima\OneDrive\Study\2 курс\Программирование\Курсовая\Kurse_Work\kursovik_student_base\Kursovik\bin\Debug\Kursovik.exe.config
+C:\Users\vdima\OneDrive\Study\2 курс\Программирование\Курсовая\Kurse_Work\kursovik_student_base\Kursovik\obj\Debug\Kursovik.exe
+C:\Users\vdima\OneDrive\Study\2 курс\Программирование\Курсовая\Kurse_Work\kursovik_student_base\Kursovik\obj\Debug\Kursovik.pdb

@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Students_Library.CollectionHandlerEventArgs" Collapsed="true">
+    <Position X="7.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAABAAAAAAACAAEAAAAAAAAAAAAAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>CollectionHandlerEventArgs.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Students_Library.Journal" Collapsed="true">
+    <Position X="9.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAECAAAACFAAAAAAAAAAAAAAABAAAA=</HashCode>
+      <FileName>Journal.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Students_Library.JournalEntry" Collapsed="true">
+    <Position X="7.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAABAAAAAAACAAEAAAAAAAAAAAAAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>JournalEntry.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Students_Library.MyException" Collapsed="true">
+    <Position X="9.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MyException.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Students_Library.Otdelenie" Collapsed="true">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAIEAAAAAAAAAAAAGAAABARAAAAAAAAAAAAgABBAAAA=</HashCode>
+      <FileName>Otdelenie.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Students_Library.OtdelenieEvent" Collapsed="true">
+    <Position X="0.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAIACAAABAkAAAAAAAAAAAAAIAAAAAA=</HashCode>
+      <FileName>OtdelenieEvent.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Students_Library.Student" Collapsed="true">
+    <Position X="3" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAMQEAAgAIAYKAGgEAAAIQAAEAEAAAMAAAQAAAACAA=</HashCode>
+      <FileName>Student.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Students_Library.Student_Distancionniy" Collapsed="true">
+    <Position X="0.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAIAAAAAAAAAAAAAAAAQAAAA=</HashCode>
+      <FileName>Student_Distancionniy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Students_Library.Student_Dnevnoy" Collapsed="true">
+    <Position X="3" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAIAAAAAAAAAAAAAAAAQAAAA=</HashCode>
+      <FileName>Student_Dnevnoy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Students_Library.Student_Zaochniy" Collapsed="true">
+    <Position X="5.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAIAAAAAAAAAAAAAAAAQAAAA=</HashCode>
+      <FileName>Student_Zaochniy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Delegate Name="Students_Library.CollectionHandler">
+    <Position X="7.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAE=</HashCode>
+      <FileName>OtdelenieEvent.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
